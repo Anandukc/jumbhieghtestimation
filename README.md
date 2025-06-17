@@ -1,6 +1,23 @@
 # Height Estimation from Video
 
-This project estimates a person's height from a video using computer vision techniques. Users can upload a video, and the application will process it to estimate the height of the subject.
+This project is a **Proof of Concept (POC)** implementation for estimating a person's height from a video using computer vision techniques. Users can upload a video, and the application will process it to estimate the height of the subject.
+
+## Features
+
+- Complete Streamlit application code
+- Sample videos for testing
+- Requirements file
+- Usage instructions
+- Example output videos
+
+## Recommended Video Guidelines
+
+For best results, use videos where:
+
+- The person is fully visible throughout the jump
+- The camera is stationary
+- Lighting is good with clear contrast
+- Jumps are vertical
 
 ## Installation and Setup
 
